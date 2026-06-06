@@ -51,6 +51,10 @@ body {
   padding: 40px;
 }
 
+.w-60 {
+  width: 60%;
+}
+
 .header-mobile {
   height: auto;
   z-index: 10;
