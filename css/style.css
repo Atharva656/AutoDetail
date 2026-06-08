@@ -351,6 +351,10 @@ body {
     padding: 15px 0px;
     display: block;
   }
+
+  .p-sm-relative {
+    position: relative !important;
+  }
 }
 
 #banner-carousel,
